@@ -1,0 +1,33 @@
+<Root>
+
+  <imgRow>
+    <date>2022-03-02</date>
+    <patient_id>2-348</patient_id>
+    <meal_id>91</meal_id>
+    <meal_desc>א. צהריים - תפריט 4 - יום ד'</meal_desc>
+    <meal_category>ארוחת צהרים</meal_category>
+    <img_type>Empty Tray</img_type>
+    <filtersValues>
+      <filter>
+        <filterName>fromDate</filterName>
+        <filterValue>2022-02-28</filterValue>
+      </filter>
+      <filter>
+        <filterName>toDate</filterName>
+        <filterValue>2022-03-02</filterValue>
+      </filter>
+      <filter>
+        <filterName>mealCategory</filterName>
+        <filterValue>All</filterValue>
+      </filter>
+      <filter>
+        <filterName>patientId</filterName>
+        <filterValue>All</filterValue>
+      </filter>
+      <filter>
+        <filterName>departments</filterName>
+        <filterValue>,1,2,3,4,5</filterValue>
+      </filter>
+    </filtersValues>
+  </imgRow>
+</Root>
