@@ -11,7 +11,7 @@ The ADCATER dataset includes high-resolution images of hospital meals, captured 
 - **Food Categories**: 39 different categories, including yogurt, semolina, salads, bread, etc.
 - **Annotations**: Created using [LabelMe](https://github.com/labelmeai/labelme), with polygons identifying food regions and assigned categories.
 
-For detailed information on the dataset and annotations, refer to the _ADCATER food image dataset_ section in the [Nature Scientific Reports](link to the article) paper.
+For detailed information on the dataset and annotations, refer to the _ADCATER food image dataset_ section in the [Article](link to the article) paper.
 
 ## ADCATER Ontology
 The ADCATER ontology integrates data from various healthcare and food management systems to support patient care and nutritional assessments. Developed with Graphol and compliant with OWL, this ontology provides a semantic structure to link patient health information, nutritional data, and food supply chain data.
